@@ -1,2 +1,2 @@
-# githun_test
+# github_test
 dev lecture for github 
